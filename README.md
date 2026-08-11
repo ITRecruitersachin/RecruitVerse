@@ -1,2 +1,16 @@
-# RecruitVerse
-The Open US IT Recruitment Knowledge Ecosystem sourcing, AI recruiting, technical recruiting, talent intelligence, recruiter tools, Boolean &amp; X-Ray search, playbooks, automation and modern recruitment strategies.
+🌎 RecruitVerse
+│
+├── Hero / Brand
+├── Mission
+├── Ecosystem Architecture
+├── Navigation
+├── 🔎 Sourcing
+├── 🤖 AI Recruiting
+├── 👥 US IT Recruiting
+├── 🧪 Recruiter Lab
+├── 📚 Knowledge Base
+├── 🛠️ Recruiter Toolbox
+├── 🧠 Recruiter Training
+├── 🌐 Community
+├── 🗺️ Roadmap
+└── 👤 Sachin R
